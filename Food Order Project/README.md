@@ -24,48 +24,48 @@ This project focuses on cleaning and visualizing a dataset containing food deliv
 ### 4. Data Visualization and Insights
 
 1. Question : How does the average delivery duration vary over time? 
-   Approach : Line plot 
-   Insight : Delivery duration fluctuates between January , 2024, and February 5, 2024. 
+   - Approach : Line plot 
+   - Insight : Delivery duration fluctuates between January , 2024, and February 5, 2024. 
 
- 2. Question : What are the percentage shares of each payment method? 
-    Approach : Pie chart 
-    Insight : Cash on Delivery (35.70%), Credit Card (33.70%), Digital Wallet (30.60%). 
+2. Question : What are the percentage shares of each payment method? 
+   - Approach : Pie chart 
+   - Insight : Cash on Delivery (35.70%), Credit Card (33.70%), Digital Wallet (30.60%). 
 
- 3. Question : Which order value range has the highest frequency? 
+3. Question : Which order value range has the highest frequency? 
     Approach : Histogram 
     Insight : Orders around 000 value are the most frequent. 
 
- 4. Question : How do order values differ across discount categories? 
-    Approach : Scatter plot 
-    Insight : Discounts show varied impacts on order values. 
+4. Question : How do order values differ across discount categories? 
+   - Approach : Scatter plot 
+   - Insight : Discounts show varied impacts on order values. 
 
- 5. Question : How do discounts vary across payment methods? 
-    Approach : Violin plot 
-    Insight : Different patterns observed for different payment methods. 
+5. Question : How do discounts vary across payment methods? 
+   - Approach : Violin plot 
+   - Insight : Different patterns observed for different payment methods. 
 
- 6. Question : What is the refund/chargeback distribution among payment methods? 
-    Approach : Pie chart 
-    Insight : Refunds/chargebacks distributed similarly to payment method shares. 
+6. Question : What is the refund/chargeback distribution among payment methods? 
+   - Approach : Pie chart 
+   - Insight : Refunds/chargebacks distributed similarly to payment method shares. 
 
- 7. Question : How are commission fees correlated to payment processing fees? 
-    Approach : Scatter plot 
-    Insight : Positive correlation observed. 
+7. Question : How are commission fees correlated to payment processing fees? 
+   - Approach : Scatter plot 
+   - Insight : Positive correlation observed. 
 
- 8. Question : Which discount type has the highest percentage? 
-    Approach : Pie chart 
-    Insight : 0% Discount was the most common (23.3%). 
+8. Question : Which discount type has the highest percentage? 
+   - Approach : Pie chart 
+   - Insight : 0% Discount was the most common (23.3%). 
 
- 9. Question : How does delivery fee vary relative to order value? 
-    Approach : Scatter plot 
-    Insight : Delivery fees are fixed at intervals (0, 20, 30, 40, 50). 
+9. Question : How does delivery fee vary relative to order value? 
+   - Approach : Scatter plot 
+   - Insight : Delivery fees are fixed at intervals (0, 20, 30, 40, 50). 
 
- 10. Question : Which payment method is most common? 
-     Approach : Bar chart 
-     Insight : Cash on Delivery is the most popular. 
+10. Question : Which payment method is most common? 
+    - Approach : Bar chart 
+    - Insight : Cash on Delivery is the most popular. 
 
- 11. Question : Which discount has the highest user count? 
-     Approach : Bar chart 
-     Insight : 0% discount had the most users. 
+11. Question : Which discount has the highest user count? 
+    - Approach : Bar chart 
+    - Insight : 0% discount had the most users. 
 
 ### 5. Save Cleaned Data
 - Saved the cleaned dataset as `Food Order ND Cleaned Data.csv`.
