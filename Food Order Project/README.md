@@ -108,5 +108,5 @@ This project focuses on cleaning and visualizing a dataset containing food deliv
 
 ## ✨ Author
 
-- **Project Completed by:** Pratham Singhal
+- **Project Completed by:** *Pratham Singhal*
 
