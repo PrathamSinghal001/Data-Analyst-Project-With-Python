@@ -27,64 +27,64 @@ This project focuses on cleaning and visualizing a dataset containing freelancer
 
 
 1. Question : Earnings distribution? 
-   Approach : Histogram 
-   Insight : Highest earnings concentration around 4000-6000 USD. 
+   - Approach : Histogram 
+   - Insight : Highest earnings concentration around 4000-6000 USD. 
 
 2. Question : Correlation between hourly rate and job success rate? 
-   Approach : Scatter plot 
-   Insight : No strong correlation observed. 
+   - Approach : Scatter plot 
+   - Insight : No strong correlation observed. 
 
 3. Question : Highest earning job category? 
-   Approach : Bar chart 
-   Insight : Digital Marketing leads earnings. 
+   - Approach : Bar chart 
+   - Insight : Digital Marketing leads earnings. 
 
 4. Question : Most completed jobs by category? 
-   Approach : Bar chart 
-   Insight : Graphic Design category has the most completions. 
+   - Approach : Bar chart 
+   - Insight : Graphic Design category has the most completions. 
 
 5. Question : Job duration by experience level? 
-   Approach : Box plot 
-   Insight : Experts complete jobs faster than beginners. 
+   - Approach : Box plot 
+   - Insight : Experts complete jobs faster than beginners. 
 
 6. Question : Job category with most freelancers? 
-   Approach : Bar chart 
-   Insight : Graphic Design has the most freelancers. 
+   - Approach : Bar chart 
+   - Insight : Graphic Design has the most freelancers. 
 
 7. Question : Relationship between job success rate and client rating? 
-   Approach : Scatter plot 
-   Insight : Positive correlation observed. 
+   - Approach : Scatter plot 
+   - Insight : Positive correlation observed. 
 
 8. Question : Platform with highest median job success rate? 
-   Approach : Box plot 
-   Insight : Platform differences observed; Upwork leading. 
+   - Approach : Box plot 
+   - Insight : Platform differences observed; Upwork leading. 
 
 9. Question : Job role distribution?  
-   Approach : Pie chart 
-   Insight : Graphic Design dominates (13.59%). 
+   - Approach : Pie chart 
+   - Insight : Graphic Design dominates (13.59%). 
 
 10. Question : Platform with most freelancers? 
-    Approach : Bar chart and Pie chart 
-    Insight : Upwork leads with 21.54%. 
+    - Approach : Bar chart and Pie chart 
+    - Insight : Upwork leads with 21.54%. 
 
 11. Question : Region with most clients? 
-    Approach : Bar chart 
-    Insight : Australia has the most clients. 
+    - Approach : Bar chart 
+    - Insight : Australia has the most clients. 
 
 12. Question : Impact of marketing spend on earnings? 
-    Approach : Scatter plot 
-    Insight : Higher marketing spend correlates with higher earnings. 
+    - Approach : Scatter plot 
+    - Insight : Higher marketing spend correlates with higher earnings. 
 
 13. Question : Payment method preference?  
-    Approach : Pie chart 
-    Insight : Crypto is the most preferred method (26.36%). 
+    - Approach : Pie chart 
+    - Insight : Crypto is the most preferred method (26.36%). 
 
 14. Question : Freelancer experience level distribution? 
-    Approach : Pie chart 
-    Insight : 34.26% are Beginners. 
+    - Approach : Pie chart 
+    - Insight : 34.26% are Beginners. 
 
 15. Question : Project types by job categories? 
-    Approach : Bar chart 
-    Insight : Graphic Design leads in fixed projects, App Development in hourly projects. 
+    - Approach : Bar chart 
+    - Insight : Graphic Design leads in fixed projects, App Development in hourly projects. 
 
 
 ---
