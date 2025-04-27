@@ -23,9 +23,9 @@ This project focuses on cleaning and visualizing a dataset containing food deliv
 
 ### 4. Data Visualization and Insights
 
- 1. Question : How does the average delivery duration vary over time? 
-    Approach : Line plot 
-    Insight : Delivery duration fluctuates between January , 2024, and February 5, 2024. 
+1. Question : How does the average delivery duration vary over time? 
+Approach : Line plot 
+Insight : Delivery duration fluctuates between January , 2024, and February 5, 2024. 
 
  2. Question : What are the percentage shares of each payment method? 
     Approach : Pie chart 
