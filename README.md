@@ -46,6 +46,7 @@ This repository contains multiple beginner to intermediate-level Data Analytics 
 
 - LinkedIn: www.linkedin.com/in/pratham-singhal001
 - GitHub: https://github.com/PrathamSinghal001
+- *Email*: prathamsinghal0011@gmail.com 
 
 ---
 
